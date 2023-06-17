@@ -6,7 +6,7 @@
 
 2. Descargar el archivo 18.16.0 LTS como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/DiegoJm10/Node-red-instalcacion/raw/main/Node.js%20-%20Google%20Chrome%2014_06_2023%2005_04_00%20p.%20m..png?raw=true)
 
 3. Seguir los pasos para su instalación 
 
@@ -19,7 +19,7 @@
 
 Aparecera la siguiente imagen 
 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/nodejs%201.png?raw=true)
 
 
 
@@ -27,20 +27,20 @@ Aparecera la siguiente imagen
 
 Aparecera lo siguiente ya inicio el nodejs se deja abierto para su uso 
 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/arranque%20nodejs.png?raw=true)
 
 3. Nos Dirigimos al navegador buscamos la pagina **localhost:1880**
 
 Aparecera la siguiente imagen lugar de trabajo de nodejs
 
 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/nodejs%20trabajo.png?raw=true)
 
 ## **REALIZACION Y CONFIGURACION DE ESTRUCTURA EN NODEJS** ##
 
 1. Se realiza la siguiente estructura 
 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/Estructura%20nodejs.png?raw=true)
 
 ### Configuracion y herramientas usadas 
 
@@ -55,7 +55,7 @@ Aparecera la siguiente imagen lugar de trabajo de nodejs
 
 ------------------------------------------
 * Para la configuracion de mqtt in se utilizo la siguiente 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/mqtt%20in.png?raw=true)
 
 * Para json solo se escogio Always convert to JavaScrip Object
 
@@ -77,14 +77,14 @@ return msg;
 
 
 * Para la configuracion de gauge de temperatura se utilizo la siguiente 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/conf%20temperatura.png?raw=true)
 
 
 * Para la configuracion de gauge de Temperatura vs Humedad  se utilizo la siguiente 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/conf%20t%20vs%20h.png?raw=true)
 
 * Para la configuracion de gauge de Humedad  se utilizo la siguiente 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/conf%20H.png?raw=true)
 
 
 # **CONEXION Y CODIGO EN WOKWI
@@ -114,7 +114,7 @@ woki : https://wokwi.com
 
 ## **Conexión**
 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/conexion.png?raw=true)
 
 
 ## **Librerías**
@@ -272,24 +272,26 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ## 1. Resultado de la pagina WOKWI 
 
  
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/resultado%20wokwi.png?raw=true)
 
 
 
 ## 2. Resultado en la red node-red. 
 
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/resultado%20en%20el%20nodejs.png?raw=true)
 
 
 ## 3. Primer  resultado del dashboard 
 
  
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/primer%20resultado%20en%20el%20dash.png?raw=true)
 
 ## 4. Segunda  resultado del dashboard 
 
  
-![]()
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/segundo%20resultado%20en%20el%20dash.png?raw=true)
+
+![](https://github.com/AxelMld/Practica6-enviodedatos/blob/main/segundo%20resultado.png?raw=true)
 
 
 Notas: Tener cuidado con el nombramiento de la red, asi como nombramiento del client-publish
